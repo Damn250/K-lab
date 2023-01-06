@@ -1,0 +1,1898 @@
+@media screen and (max-width: 980px) {
+ 
+   .lang {
+      position: absolute;
+      background-color: #FF9301;
+      left: 95%;
+      width: 30px;
+      height: 30px;
+      top: 20px;
+   }
+   
+   .lang p {
+      font-weight: 1000;
+      position: absolute;
+      top: -15px;
+      left: 15%;
+      font-size: 115%;
+   }
+   
+   #pnumber {
+       font-family: 'Palanquin', sans-serif;
+       font-size: 130%;
+       position: absolute;
+       left: 5%;
+   }
+   
+   #email {
+       font-family: 'Palanquin', sans-serif;
+       font-size: 125%;
+       position: absolute;
+       left: 30%;
+   }
+   
+   .navbar {
+     background-color: #0E0E17;
+     position: fixed;
+     left: 0;
+     top: 0;
+     height: 100%;
+     width: 50px;
+     border-right: 1px solid #E5E5E5;
+   }
+   
+   #home {
+   
+       position: absolute;
+       top: 0;
+       left: 50%;
+   }
+   
+   .corner{
+      transition: all .25s linear;
+      position: fixed;
+      left: 0;
+      top: 0;
+      height: 100px;
+      width: 50px !important;
+      background-color: #FF9301;
+   }
+
+
+   #cornertext {
+       position: fixed;
+       font-size: 300% !important;
+       font-weight: 600;
+       top: 2.5% !important;
+       margin-top: -1%;
+       margin-left: 1%;
+   
+   }
+   
+   #a1 {
+    position: absolute;
+    left: 10% !important;
+    top: 30%;
+    text-align: center;
+    font-size: 29px !important;
+  }
+  
+  #a2 {
+    position: absolute;
+    left: 10% !important;
+    top: 40%;
+    text-align: center;
+    font-size: 28px !important;
+  }
+  
+  #a3 {
+    position: absolute;
+    left: 10% !important;
+    top: 49%;
+    font-size: 33px !important;
+  }
+  
+  #a4 {
+    position: absolute;
+    left: 10% !important;
+    top: 59%;
+    font-size: 28px !important;
+  }
+  
+  #a5 {
+    position: absolute;
+    left: 10% !important;
+    top: 68%;
+    font-size: 28px !important;
+  }
+   
+   #paragraph1 {
+       position: absolute;
+       top: 160px;
+       font-size: 25px;
+       margin-left: 30px;
+   }
+   
+   #name {
+       position: absolute;
+       top: 200px;
+       font-size: 50px;
+       margin-left: 30px;
+   }
+   
+   #name400a {
+       display: none;
+   }
+   
+   #name400b {
+       display: none;
+   }
+   
+   #name400c {
+       display: none;
+   }
+   
+   #occupation {
+       position: absolute;
+       top: 310px;
+       font-size: 25px;
+       margin-left: 30px;
+   }
+   
+   #paragraph2 {
+       position: absolute;
+       top: 370px;
+       font-size: 20px;
+       margin-left: 30px;
+       padding-right: 45% !important;
+   }
+   
+   #downloadcv {
+      background-color: #FF9301;
+      border-radius: 00.5rem;
+      transition: all .25s linear;
+      position: absolute;
+      top: 520px;
+      height: 40px;
+      width: 150px;
+      font-size: 23px;
+      text-decoration-color: #ffffff;
+      text-decoration-line: none;
+      margin-left: 5%;
+      padding-top: 10px;
+      padding-left: 8px;
+   }
+   
+   #downloadcv:hover{
+      background-color: #ffffff;
+   }
+   
+   #bigcircle {
+       opacity: 0;
+   }
+   
+   #img1 {
+       position: absolute;
+       left: 50%;
+       top: 60px;
+       z-index: -2;
+   }
+
+   .corner{
+       position: fixed;
+       left: 0;
+       top: 0;
+       height: 15%;
+       width: 6%;
+       background-color: #FF9301;
+   }
+   
+   .bio {
+    height: 450%;
+    width: 94%;
+    background-color: #141421;
+    position: absolute;
+    left: 6%;
+    top: 100%;
+    z-index: -1;
+}
+
+.all1{
+    position: absolute;
+    left: 3%;
+    top: 15%;
+    width: 95%;
+    height: 15%;
+    padding-right: 5%;
+}
+
+#biography {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 0%;
+}
+
+.smallcircle1 {
+   transition: all .25s linear;
+   position: absolute;
+   top: 10px;
+   left: 9%;
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   background-color: #FF9301;
+   z-index: -1;
+}
+
+#paragraph3 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    padding-right: 9%;
+    font-size: 110%;
+}
+
+#paragraph4 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 5%;
+    top: 38%;
+    padding-right: 9%;
+    padding-top: 1%;
+    font-size: 110%;
+}
+
+#paragraph5 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 5%;
+    top: 65%;
+}
+
+#paragraph6 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 5%;
+    top: 70%;
+}
+
+#paragraph7 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 5%;
+    top: 75%;
+}
+
+#paragraph8 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 5%;
+    top: 80%;
+}
+
+#paragraph9 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 50%;
+    top: 65%;
+}
+
+#paragraph10 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+}
+
+#paragraph11 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 50%;
+    top: 75%;
+}
+
+#paragraph12 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 50%;
+    top: 80%;
+}
+
+.all2{
+    position: absolute;
+    top: 1%;
+    left: 25%;
+    width: 50%;
+    height: 15%;
+
+}
+#paragraph13 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 30%;
+    top: 67%;
+    font-size: 120%;
+}
+
+#paragraph14 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 22%;
+    top: 70%;
+    font-size: 140%;
+}
+
+.circleforimg {
+    transition: all .25s linear;
+    position: absolute;
+    overflow: hidden;
+    top: 5%;
+    left: 10%;
+    width: 75%;
+    height: 60%;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    z-index: -1;
+}
+
+.circleforimg img {
+    transition: all .25s linear;
+    position: absolute;
+    top: -50%;
+    left: -10%;
+    width: 130%;
+    height: 17 0%;
+    z-index: -1;
+}
+
+.circleforimg:hover {
+    transition: all .25s linear;
+    border: 5px solid #FF9301;
+}
+
+.circlepint {
+    transition: all .25s linear;
+    position: absolute;
+    overflow: hidden;
+    top: 52%;
+    left: 71%;
+    width: 10%;
+    height: 8%;
+    background-color: #1F1F28;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+.circlepint:hover {
+    transform: translateY(-5px);
+    transition: all 0.5s ease-in-out;
+    background-color: #FF9301;
+    border: 3px solid #FF9301;
+}
+
+.circlepint img {
+    transition: all .25s linear;
+    width: 100%;
+    height: 100%;
+}
+
+.circlelinked {
+    transition: all .25s linear;
+    position: absolute;
+    overflow: hidden;
+    top: 58%;
+    left: 58%;
+    width: 10%;
+    height: 8%;
+    background-color: #1F1F28;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+.circlelinked:hover {
+    transform: translateY(-5px);
+    transition: all 0.5s ease-in-out;
+    background-color: #FF9301;
+    border: 3px solid #FF9301;
+}
+
+.circlelinked img {
+    transition: all .25s linear;
+    width: 100%;
+    height: 90%;
+}
+
+.circleinsta {
+    transition: all .25s linear;
+    position: absolute;
+    overflow: hidden;
+    top: 62%;
+    left: 43%;
+    width: 10%;
+    height: 8%;
+    background-color: #1F1F28;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+.circleinsta:hover {
+    transform: translateY(-5px);
+    transition: all 0.5s ease-in-out;
+    background-color: #FF9301;
+    border: 3px solid #FF9301;
+}
+
+.circleinsta img {
+    transition: all .25s linear;
+    width: 100%;
+    height: 100%;
+}
+
+.circletwit {
+    transition: all .25s linear;
+    position: absolute;
+    overflow: hidden;
+    top: 58%;
+    left: 28%;
+    width: 10%;
+    height: 8%;
+    background-color: #1F1F28;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+.circletwit:hover {
+    transform: translateY(-5px);
+    transition: all 0.5s ease-in-out;
+    background-color: #FF9301;
+    border: 3px solid #FF9301;
+}
+
+.circletwit img {
+    transition: all .25s linear;
+    width: 100%;
+    height: 100%;
+}
+
+.circleface {
+    transition: all .25s linear;
+    position: absolute;
+    overflow: hidden;
+    top: 52%;
+    left: 14%;
+    width: 10%;
+    height: 8%;
+    background-color: #1F1F28;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+.circleface:hover {
+    transform: translateY(-5px);
+    transition: all 0.5s ease-in-out;
+    background-color: #FF9301;
+    border: 3px solid #FF9301;
+}
+
+.circleface img {
+    transition: all .25s linear;
+    width: 100%;
+    height: 100%;
+}
+
+.smallcircle2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 30.5%;
+    left: 13%;
+    width: 50px;
+   height: 50px;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+#wid {
+    transition: all .25s linear;
+    position: absolute;
+    left: 15%;
+    top: 30%;
+}
+
+#rectangle1 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 34%;
+    left: 6%;
+    height: 10%;
+    width: 90%;
+    background-color: #0E0E17;
+    border-radius: 1.1rem;
+    overflow: hidden;
+
+}
+
+#rectangle2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 45%;
+    left: 6%;
+    height: 10%;
+    width: 90%;
+    background-color: #0E0E17;
+    border-radius: 1.1rem;
+    overflow: hidden;
+}
+
+.smallcircle3 {
+    transition: all .25s linear;
+    position: absolute;
+    top: -25%;
+    left: -10%;
+    width: 30%;
+    height: 60%;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+.smallcircle3:hover {
+    transition: all .25s linear;
+    transform: scale(8);
+    transition: all 1s ease;
+}
+
+.smallcircle4 {
+    transition: all .25s linear;
+    position: absolute;
+    top: -25%;
+    left: -10%;
+    width: 30%;
+    height: 60%;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+.smallcircle4:hover {
+    transform: scale(8);
+    transition: all 1s ease;
+}
+
+#mobile {
+    transition: all .25s linear;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 60px;
+    height: 60px;
+    z-index: 3;
+
+}
+
+#monitor {
+    transition: all .25s linear;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 60px;
+    height: 60px;
+}
+
+#paragraph15 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 33%;
+    font-size: 160%;
+}
+
+#paragraph16 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    font-size: 110%;
+    padding-right: 5%;
+}
+
+#paragraph17 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 33%;
+    font-size: 160%;
+}
+
+#paragraph18 {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    font-size: 110%;
+    padding-right: 5%;
+}
+
+#award {
+    transition: all .25s linear;
+    position: absolute;
+    top: 57%;
+    left: 10%;
+}
+
+.smallcircle5 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 57.5%;
+    width: 50px;
+   height: 50px;
+    height: 1.5%;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+#rectangle3 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 62%;
+    left: 5%;
+    height: 4%;
+    width: 90%;
+    background-color: #0E0E17;
+    border-radius: 0.5rem;
+    overflow: hidden;
+
+}
+
+#rectangle3:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+#rectangle4 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 67%;
+    left: 5%;
+    height: 4%;
+    width: 90%;
+    background-color: #0E0E17;
+    border-radius: 0.5rem;
+    overflow: hidden;
+
+}
+
+#rectangle4:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+#rectangle5 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 72%;
+    left: 5%;
+    height: 4%;
+    width: 90%;
+    background-color: #0E0E17;
+    border-radius: 0.5rem;
+    overflow: hidden;
+
+}
+
+#rectangle5:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+.rectangle6 {
+   transition: all .25s linear;
+   position: absolute;
+   top: 20%;
+   left: 10%;
+   height: 60%;
+   width: 15%;
+   background-color: #fff;
+   border-radius: 2%;
+
+}
+
+#rectangle7 {
+   transition: all .25s linear;
+   position: absolute;
+   top: 20%;
+   left: 10%;
+   height: 60%;
+   width: 15%;
+   background-color: #ffffff;
+   border-radius: 2%;
+
+}
+
+#rectangle8 {
+   transition: all .25s linear;
+   position: absolute;
+   top: 20%;
+   left: 10%;
+   height: 60%;
+   width: 15%;
+   background-color: #ffffff;
+   border-radius: 2%;
+
+}
+
+#wimg {
+    transition: all .25s linear;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+    width: 80%;
+    height: 90%;
+}
+
+#p1img {
+    transition: all .25s linear;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+    width: 80%;
+    height: 90%;
+}
+
+#p2img {
+    transition: all .25s linear;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+}
+
+#hon1 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    font-size: 110%;
+}
+
+#comp1 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+#hon2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    font-size: 110%;
+}
+
+#comp2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+#hon3 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    font-size: 110%;
+}
+
+#comp3 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+.smallcircle6 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 79.5%;
+    left: 8%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+#testim {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 79%;
+}
+
+.wrapper {
+    transition: all .25s linear;
+    position: absolute;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    top: 84%;
+    overflow-x: auto;
+}
+
+.wrapper::-webkit-scrollbar {
+    width: 10px;
+    height: 8px;
+  } 
+  
+.wrapper::-webkit-scrollbar-track {
+    position: absolute;
+    top: 99%;
+    border-radius: 0.5rem;
+  }
+   
+ .wrapper::-webkit-scrollbar-thumb {
+    background: #ffffff; 
+    border-radius: 0.5rem;
+  }
+  
+ .wrapper::-webkit-scrollbar-thumb:hover {
+    background: #FF9301; 
+  }
+
+.wrapper .item1 {
+    position: absolute;
+    left: 10%;
+    width: 80%;
+    height: 95%;
+    background-color: #0E0E17;
+    border-radius: 0.8rem;
+    display: flex;
+}
+
+.item1:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+.wrapper .item2 {
+    position: absolute;
+    width: 80%;
+    height: 95%;
+    background-color: #0E0E17;
+    border-radius: 0.8rem;
+    left: 100%;
+    display: flex;
+}
+
+.item2:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+.wrapper .item3 {
+    position: absolute;
+    width: 80%;
+    height: 95%;
+    background-color: #0E0E17;
+    border-radius: 0.8rem;
+    left: 200%;
+    display: flex;
+}
+
+.item3:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+.wrapper .item4 {
+    position: absolute;
+    width: 80%;
+    height: 95%;
+    background-color: #0E0E17;
+    border-radius: 0.8rem;
+    left: 300%;
+    display: flex;
+    padding-right: -5%;
+}
+
+.item4:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+.circimage1 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.circimage1 img{
+    transition: all .25s linear;
+    position: absolute;
+    right: -10%;
+    width: 125%;
+    height: 110%;
+}
+
+#par1 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 6%;
+    left: 30%;
+    font-size: 110%;
+    margin-right: 2%;
+}
+
+#par2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    font-size: 140%;
+}
+
+#par3 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+
+.circimage2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.circimage2 img{
+    transition: all .25s linear;
+    position: absolute;
+    right: -10%;
+    width: 125%;
+    height: 110%;
+}
+
+#par4 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 6%;
+    left: 30%;
+    font-size: 110%;
+    margin-right: 2%;
+}
+
+#par5 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    font-size: 140%;
+}
+
+#par6 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+
+.circimage3 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.circimage3 img{
+    transition: all .25s linear;
+    position: absolute;
+    right: -10%;
+    width: 125%;
+    height: 110%;
+}
+
+#par7 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 6%;
+    left: 30%;
+    font-size: 110%;
+    margin-right: 2%;
+}
+
+#par8 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    font-size: 140%;
+}
+
+#par9 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+
+.circimage4 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.circimage4 img{
+    transition: all .25s linear;
+    position: absolute;
+    right: -10%;
+    width: 125%;
+    height: 110%;
+}
+
+#par10 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 6%;
+    left: 30%;
+    font-size: 110%;
+    margin-right: 2%;
+}
+
+#par11 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    font-size: 140%;
+}
+
+#par12 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+
+.resume {
+    transition: all .25s linear;
+    height: 200%;
+    width: 94%;
+    position: absolute;
+    left: 6%;
+    top: 550%;
+    z-index: -1;
+}
+
+.smallcircle7 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 5.5%;
+    left: 8.8%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+#exper {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 4%;
+}
+
+#rectangle9 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 13%;
+    left: 3%;
+    height: 20%;
+    width: 94%;
+    background-color: #0E0E17;
+    border-radius: 1.01rem;
+    overflow: hidden;
+}
+
+#rectangle9:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+#paragraph19 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 0%;
+    left: 4%;
+    font-size: 130%;
+}
+
+#paragraph19a {
+    transition: all .25s linear;
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    font-size: 130%;
+}
+
+#paragraph19b {
+    transition: all .25s linear;
+    position: absolute;
+    top: 30%;
+    left: 4%;
+    font-size: 130%;
+}
+
+#rectangle10 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 15%;
+    width: 25%;
+    background-color: #FF9301;
+    border-radius: 0.3rem;
+}
+
+#rectangle10 p{
+    transition: all .25s linear;
+    position: absolute;
+    top: -60%;
+    left: 15%;
+    font-size: 150%;
+}
+
+#paragraph20 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 2%;
+    left: 40%;
+    font-size: 120%;
+}
+
+#paragraph21 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    padding-right: 5%;
+    font-size: 100%;
+}
+
+#rectangle11 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 35%;
+    left: 3%;
+    height: 20%;
+    width: 94%;
+    background-color: #0E0E17;
+    border-radius: 1.01rem;
+    overflow: hidden;
+}
+
+#rectangle11:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+#paragraph22 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    font-size: 130%;
+}
+
+#paragraph22a {
+    transition: all .25s linear;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    font-size: 130%;
+}
+
+#paragraph22b {
+    transition: all .25s linear;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    font-size: 130%;
+}
+
+#rectangle12 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    height: 15%;
+    width: 25%;
+    background-color: #FF9301;
+    border-radius: 0.3rem;
+}
+
+#rectangle12 p{
+    transition: all .25s linear;
+    position: absolute;
+    top: -60%;
+    left: 16%;
+    font-size: 150%;
+}
+
+#paragraph23 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 2%;
+    left: 40%;
+    font-size: 120%;
+}
+
+#paragraph24 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    padding-right: 5%;
+    font-size: 100%;
+}
+
+.smallcircle8 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 57.5%;
+    left: 8.8%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+#edu {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 56%;
+}
+
+#rectangle13 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 66%;
+    left: 3%;
+    height: 28%;
+    width: 45%;
+    background-color: #0E0E17;
+    border-radius: 1.01rem;
+    overflow: hidden;
+} 	
+
+.rect13p1 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 5%;
+    left: 2%;
+    height: 20%;
+    width: 100%;
+}
+
+#paragraph25 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    font-size: 120%;
+}
+
+#paragraph26 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 120%;
+}
+
+#paragraph27 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    font-size: 120%;
+}
+
+.rect13p2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 35%;
+    left: 2%;
+    height: 20%;
+    width: 100%;
+}
+
+#paragraph28 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    font-size: 120%;
+}
+
+#paragraph29 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 120%;
+}
+
+#paragraph30 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    font-size: 120%;
+}
+
+.rect13p3 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 65%;
+    left: 2%;
+    height: 20%;
+    width: 100%;
+}
+
+#paragraph31 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    font-size: 120%;
+}
+
+#paragraph32 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 120%;
+}
+
+#paragraph33 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    font-size: 120%;
+}
+
+.progress {
+    transition: all .25s linear;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    width: 35%;
+    height: 30%;
+}
+
+.progress1 {
+    transition: all .25s linear;
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    top: 0;
+    left: 0;
+}
+
+#paragraph34 {
+    transition: all .25s linear;
+    position: absolute;
+    font-size: 250%;
+    font-weight: 900;
+    top: 0;
+    left: 4%;
+}
+
+#paragraph35 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 55%;
+}
+
+#progbar1 {
+    transition: all .25s linear;
+    position: absolute;
+    background-color: #FF9301;
+    width: 65%;
+    height: 7%;
+    top: 85%;
+    left: 55%;
+}
+
+.progress2 {
+    transition: all .25s linear;
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    top: 20%;
+    left: 0;
+}
+
+#paragraph36 {
+    transition: all .25s linear;
+    position: absolute;
+    font-size: 250%;
+    font-weight: 900;
+    top: 0;
+    left: 4%;
+}
+
+#paragraph37 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 55%;
+}
+
+#progbar2 {
+    transition: all .25s linear;
+    position: absolute;
+    background-color: #FF9301;
+    width: 53%;
+    height: 7%;
+    top: 85%;
+    left: 55%;
+}
+
+.progress3 {
+    transition: all .25s linear;
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    top: 40%;
+    left: 0;
+}
+
+#paragraph38 {
+    transition: all .25s linear;
+    position: absolute;
+    font-size: 250%;
+    font-weight: 900;
+    top: 0;
+    left: 4%;
+}
+
+#paragraph39 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 55%;
+}
+
+#progbar3 {
+    transition: all .25s linear;
+    position: absolute;
+    background-color: #FF9301;
+    width: 61%;
+    height: 7%;
+    top: 85%;
+    left: 55%;
+}
+
+.progress4 {
+    transition: all .25s linear;
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    top: 60%;
+    left: 0;
+}
+
+#paragraph40 {
+    transition: all .25s linear;
+    position: absolute;
+    font-size: 250%;
+    font-weight: 900;
+    top: 0;
+    left: 4%;
+}
+
+#paragraph41 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 40%;
+    left: 55%;
+}
+
+#progbar4 {
+    transition: all .25s linear;
+    position: absolute;
+    background-color: #FF9301;
+    width: 63%;
+    height: 7%;
+    top: 85%;
+    left: 55%;
+}
+
+.work {
+    transition: all .25s linear;
+    width: 94%;
+    position: absolute;
+    left: 6%;
+    top: 750%;
+    height: 175%;
+    background-color: #141421;
+    z-index: -1;
+}
+
+#work {
+    transition: all .25s linear;
+    position: absolute;
+    top: 0;
+}
+
+.smallcircle9 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 4.5%;
+    left: 8%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FF9301;
+}
+
+#portf {
+    transition: all .25s linear;
+    position: absolute;
+    left: 10%;
+    top: 3%;
+}
+
+.square1 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 15%;
+    left: 3%;
+    width: 45%;
+    height: 30%;
+    background-color: #FF9301;
+}
+
+.square2 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 15%;
+    left: 52%;
+    width: 45%;
+    height: 50%;
+    background-color: #FF9301;
+}
+
+.square3 {
+    opacity: 0;
+}
+
+.square4 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 48%;
+    left: 3%;
+    width: 45%;
+    height: 25%;
+    background-color: #FF9301;
+}
+
+.square5 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 68%;
+    left: 52%;
+    width: 45%;
+    height: 30%;
+    background-color: #FF9301;
+}
+
+.square6 {
+    opacity: 0;
+}
+
+.square7 {
+    transition: all .25s linear;
+    position: absolute;
+    top: 75%;
+    left: 3%;
+    width: 45%;
+    height: 23%;
+    background-color: #FF9301;
+}
+
+.square8 {
+    opacity: 0;
+}
+
+#sqcontent{
+    transition: all .25s linear;
+    position: absolute;
+    background-color: #0E0E17;
+    top: 7%;
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 65%;
+    height: 100px;
+}
+
+#enablehover {
+    transition: all .25s linear;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+#enablehover:hover{
+    position: absolute;
+    opacity: 100%;
+    transition: all 1s ease;
+}
+
+#sqcontent1 {
+    transition: all .25s linear;
+    position: absolute;
+    bottom: 23%;
+    left: 15%;
+    font-size: 140%;
+    font-weight: 800;
+}
+
+#sqcontent2 {
+    transition: all .25s linear;
+    position: absolute;
+    bottom: 0%;
+    left: 13%;
+    font-size: 100%;
+}
+
+.square1:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.square2:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.square3:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.square4:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.square5:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.square6:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.square7:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.square8:hover {
+    transform: translateY(-10px);
+    transition: all 1s ease-in-out;
+}
+
+.contactpage {
+  position: absolute;
+  top: 6490px;
+  width: 94%;
+  left: 6%;
+  height: 700px;
+  z-index: -1;
+  overflow: hidden;
+}
+
+   #contact {
+   position: absolute;
+   top: 5450px;
+   left: 50%;
+}
+
+   .getintouch{
+       position: absolute;
+       top: 20px;
+       height: 45%;
+       left: 20px;
+       width: 50%;
+   }
+
+   #para1{
+       position: absolute;
+       top: 0;
+       left: 5%;
+       font-size: 200%;
+   }
+
+   #para2{
+       position: absolute;
+       font-size: 120%;
+       top: 35%;
+       padding-right: 5%;
+       padding-left: 5%;
+       padding-right: 10%;
+   }
+
+   .fa-map{
+       position: absolute;
+       top: 65%;
+       left: 6%;
+       font-size: 150%;
+       color: #FF9301;
+   }
+
+   #para3{
+       position: absolute;
+       font-size: 120%;
+       top: 60%;
+       left: 15%;
+   }
+
+   .fa-github{
+       position: absolute;
+       top: 75%;
+       left: 6%;
+       font-size: 150%;
+       color: #FF9301;
+   }
+
+   #para4{
+       position: absolute;
+       font-size: 120%;
+       top: 70%;
+       left: 15%;
+   }
+
+   .fa-phone-alt{
+       position: absolute;
+       top: 85%;
+       left: 6%;
+       font-size: 150%;
+       color: #FF9301;
+   }
+
+   #para5{
+       position: absolute;
+       font-size: 120%;
+       top: 80%;
+       left: 15%;
+   }
+
+
+   .form {
+       position: absolute;
+       top: 30px;
+       height: 40%;
+       left: 50%;
+       width: 30%;  
+   }
+
+   #h1a{
+       position: absolute;
+       top: 0;
+       left: 5%;
+       font-size: 150%;
+   }
+
+   .input1{
+       color: #fff;
+       position: absolute;
+       background-color: #1d1d30;
+       top: 25%;
+       left: 5%;
+       width: 120px;
+       height: 40px;
+       font-size: 100%;
+       outline: none;
+       border: 1px solid gray;
+   }
+
+   .input2{
+       color: #fff;
+       position: absolute;
+       background-color: #1d1d30;
+       top: 25%;
+       left: 170px;
+       width: 120px;
+       height: 40px;
+       font-size: 100%;
+       outline: none;
+       border: 1px solid gray;
+   }
+
+   .input3{
+       color: #fff;
+       position: absolute;
+       background-color: #1d1d30;
+       top: 45%;
+       left: 5%;
+       width: 280px;
+       height: 40px;
+       font-size: 100%;
+       padding-left: 30px;
+       outline: none;
+       border: 1px solid gray;
+   }
+
+   .input4{
+       color: #fff;
+       position: absolute;
+       background-color: #1d1d30;
+       top: 65%;
+       left: 5%;
+       width: 280px;
+       height: 100px;
+       font-size: 150%;
+       padding-left: 30px;
+       outline: none;
+       border: 1px solid gray;
+   }
+
+   .button1 {
+       position: absolute;
+       top: 105%;
+       height: 40px;
+       left: 5%;
+       width: fit-content;
+       border: none;
+       outline: none;
+       background-color: #FF9301;
+       border-radius: 0.5rem;
+       font-size: 200%;
+       color: #E5E5E5;
+       padding-left: 2%;
+       padding-right: 2%;
+   }
+
+   .map {
+       position: absolute;
+       top: 55%;
+       height: 280px;
+       left: 20px;
+       right: 20px;
+       overflow: hidden;
+   }
+
+
+}
